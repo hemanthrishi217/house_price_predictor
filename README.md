@@ -15,5 +15,6 @@ Deployment/UI: Streamlit
 Dataset Source: Kaggle (USA Housing Dataset)
 
 📂 Project Structure
+
 ├── house_app.py  
 ├── USA_Housing.csv 
